@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="s3k3uNCYsFI9E95hjkNw">
-    <mxGraphModel dx="1243" dy="697" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="878" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,8 +92,8 @@
         <mxCell id="f2tCFf9gCVSLqXownowN-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Soil-Friendly" vertex="1">
           <mxGeometry height="30" width="82.76" x="663" y="93" as="geometry" />
         </mxCell>
-        <mxCell id="f2tCFf9gCVSLqXownowN-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="$$C_{steer} = \kappa_1 \cdot |\omega| + \kappa_2 \cdot e^{-\alpha|v|} \cdot |\omega|$$" vertex="1">
-          <mxGeometry height="30" width="243" x="480.88" y="423" as="geometry" />
+        <mxCell id="f2tCFf9gCVSLqXownowN-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Dynamic Control Cost: \(C_{steer} = \kappa_1 \cdot |\omega| + \kappa_2 \cdot e^{-\alpha|v|} \cdot |\omega|\)" vertex="1">
+          <mxGeometry height="30" width="335" x="434.89" y="423" as="geometry" />
         </mxCell>
         <mxCell id="f2tCFf9gCVSLqXownowN-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=14;" value="Basic Control Cost: \(C_{steer} = \kappa_1 \cdot |\omega|\)" vertex="1">
           <mxGeometry height="30" width="225" x="113.88" y="423" as="geometry" />
